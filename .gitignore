@@ -20,6 +20,9 @@
 # production
 /build
 
+# dist is the static export for deployment — do NOT ignore
+# /dist
+
 # misc
 .DS_Store
 *.pem
